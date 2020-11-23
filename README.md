@@ -1,3 +1,3 @@
 ### Hi there 👋
 
-Software engineer do NOT need blog any more.
+![Github states](https://github-readme-stats.vercel.app/api?username=stiekel&show_icons=true)
